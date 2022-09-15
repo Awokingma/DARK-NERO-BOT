@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94774579505'
+global.REACT_NUMBER = '94710903419'
 
 
 
@@ -43,8 +43,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94774579505'] //ur owner number
-global.ownername = "🎸 KAVEESHA " //ur owner name
+global.vcardowner = ['94710903419'] //ur owner number
+global.ownername = "*ʜᴀʀꜱʜᴀ ᴍᴀᴅʜᴜꜱʜᴀɴᴋᴀ ʙᴏᴛ ®☘️* " //ur owner name
 global.ytname = "YT: Nero" //ur yt chanel name
 global.socialm = "GitHub: Nero" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
@@ -52,14 +52,14 @@ global.location = "India, Mizoram, Aizawl" //ur location
 //bot bomdy 
 global.owner = ['774579505']
 global.ownertag = '774579505' //ur tag number
-global.botname = '✫ ✫ ✫𝙳𝙰𝚁𝙺 𝙽𝙴𝚁𝙾✫ ✫ ✫' //ur bot name
+global.botname = '*ʜᴀʀꜱʜᴀ ᴍᴀᴅʜᴜꜱʜᴀɴᴋᴀ ʙᴏᴛ ®☘️*' //ur bot name
 global.linkz = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/Kaveeshasithum/DARK-NERO-BOT.git" //ur website to be displayed
 global.botscript = 'https://github.com/Kaveeshasithum/DARK-NERO-BOT.git' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🎸" //ur theme emoji
 global.packname = "Nero Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "Kaveesha sithum" //ur sticker watermark author
+global.author = "harsha madhushnka" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -68,7 +68,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['774579505'] //ur premium numbers
+global.premium = ['710903419'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
